@@ -22,7 +22,6 @@ body {
     text-align: center;
 }
 
-
 .sidebar {
     grid-area: sidebar;
     background-color: rgb(215, 231, 250);
@@ -65,7 +64,6 @@ ul {
     text-align: center;
     background-color: rgb(221, 221, 238);
 }
-
 
 @media (max-width: 576px) {
     .grid-container {
